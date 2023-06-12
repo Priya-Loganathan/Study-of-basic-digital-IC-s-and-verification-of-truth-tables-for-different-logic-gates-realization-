@@ -88,7 +88,7 @@ endmodule
 ![Screenshot 2023-04-18 083546](https://user-images.githubusercontent.com/121166075/232661800-215c22ff-1683-49c6-bcb3-05fa31c1e96a.png)
 
 ### Timer Diagram
-![image](https://github.com/Priya-Loganathan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121166075/c2769286-3961-4c9d-81b8-8dec760ff35b)
+![image](https://github.com/Priya-Loganathan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121166075/e68c7d4d-da3d-4840-9fc8-b738e82eea46)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
